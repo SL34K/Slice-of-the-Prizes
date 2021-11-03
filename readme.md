@@ -47,16 +47,21 @@ pip install imap-tools
 
 ## Usage
 
-Configure the variables in the main.py file
+Configure the variables in the main.py file or delete-bad-prizes.py file
+Review the file and adjust anything else if needed to work with your catchall set-up i.e. folder names etc.
 
 Run the script:
+Main script (this will generate entries and claim the prizes)
+```bash
+python3 main.py
+```
+Clean-up script (delete-bad-prizes.py)
 ```bash
 python3 main.py
 ```
 
-
 ## Contributing
-I don't expect there will be much use for this script as the competition is now closed however I'm releasing it so others can see how I was able to win a number of good prizes from the competition with little effort.
+I don't expect there will be much use for this script as the competition is due to close in a few weeks however I'm releasing it so others can see how poor the security was on this competition. No limit in terms of names, no captcha, no rate limiting etc...
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
