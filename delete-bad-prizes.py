@@ -1,3 +1,12 @@
+#!/usr/bin/python
+# .------..------..------..------..------.
+# |S.--. ||L.--. ||3.--. ||4.--. ||K.--. |
+# | :/\: || :/\: || :(): || :/\: || :/\: |
+# | :\/: || (__) || ()() || :\/: || :\/: |
+# | '--'S|| '--'L|| '--'3|| '--'4|| '--'K|
+# `------'`------'`------'`------'`------'
+# https://twitter.com/SL34K
+# https://github.com/SL34K
 import imap_tools
 import time
 emailUsername = "mailbox@yourcatchall.co.uk"  # username for your mailbox
