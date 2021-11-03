@@ -1,6 +1,6 @@
 # Slice of the Prizes
 
-Slice of the Prizes is a Python Script designed to enter the ["Slice of the Action" competition hosted by Pizza Express](https://slice-of-the-action.pizzaexpress.com/) the competition ended on the 15th November
+Slice of the Prizes is a Python Script designed to enter the ["Slice of the Action" competition hosted by Pizza Express](https://slice-of-the-action.pizzaexpress.com/) the competition ended on the 15th November 2021. (or is due to end depending on when you're reading this :))
 
 The competition T&Cs were worded loosely meaning this script was NOT in breach of them and thus all entries should be valid.
 The T&Cs state
