@@ -25,16 +25,16 @@ Prize Name  | Quantity Received
 ------------- | -------------
 Vespa Motorcycle  | 0
 Tech Bundle  | 0
-Case of Peroni  | 0
-Tickets | 0
+Case of Peroni  | 1
+Tickets | 1
 
 Worthless vouchers:
 
 Prize Name  | Quantity Received
 ------------- | -------------
-Doughballs  | 3002
-Dessert  | 526
-Drink  | 658
+Doughballs  | 30000+
+Dessert  | 5000+
+Drink  | 5000+
 
 ## Installation
 Download the script from this repository.
